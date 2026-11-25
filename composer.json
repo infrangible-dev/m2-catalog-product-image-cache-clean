@@ -1,11 +1,19 @@
 {
     "name": "infrangible/m2-catalog-product-image-cache-clean",
-    "description": "Infrangible Magento 2 Catalog Product Image Cache Clean",
+    "description": "Adds a \"Clean Image Cache\" button to the product edit page that removes the resized cached images of this product, so updated images appear right away.",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Catalog",
+        "Performance",
+        "Admin tools",
+        "clean product image cache",
+        "refresh resized product images",
+        "image cache button"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-catalog-product-image-cache-clean",
     "authors": [
